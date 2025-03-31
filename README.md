@@ -1,2 +1,2 @@
 # ml-learning
-Author-Smit Sutariya
+Author-Smit Sutariyaa
